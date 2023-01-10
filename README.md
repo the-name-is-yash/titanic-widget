@@ -1,6 +1,6 @@
-Member 1: Manimaran Hendran 00811949
+Member 1: Bachhav Yash
 
-Member 2: Bachhav Yash 22109773
+Member 2: Manimaran Hendran 
 
 Title: Surviving the Unsinkable
 
@@ -31,8 +31,6 @@ Required Installations on the PC:
 
     3. Titanic - Machine Learning from Disaster Training & Testing Dataset (Source: Kaggle)
         Link to download the data: https://www.kaggle.com/c/titanic/data
-
-    4. Download the repository from mygit and run it on the local computer to start the widget.
 
 Basic Usage:
 
