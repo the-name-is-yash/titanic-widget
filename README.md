@@ -4,8 +4,6 @@ Member 2: Bachhav Yash 22109773
 
 Title: Surviving the Unsinkable
 
-Link: https://mygit.th-deg.de/as_project_1/widget_development.git
-
 Project Description:
 
     Undoubtedly one of the most well-known shipwrecks in history is the sinking of the Titanic.
